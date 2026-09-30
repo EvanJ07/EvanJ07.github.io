@@ -1,0 +1,18 @@
+---
+title: "Evan portfolio"
+
+image:  "Evan headshot.jpg"
+
+about:
+  template: jolla
+  links:
+    - icon: github
+       text: GitHub
+       href: https://github.com/EvanJ07
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/Evan Jackson
+    - icon: inboxes
+      text: Contact
+      href: mailto:ej065@uark.edu
+---
