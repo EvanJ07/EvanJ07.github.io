@@ -39,20 +39,62 @@
     "href": "index.html",
     "title": "Evan Jackson",
     "section": "",
-    "text": "I am an Industrial Engineering student interested in developing my technical, analytical, and problem-solving skills.\n\n\nLinkedIn | Email"
+    "text": "I am an Industrial Engineering student interested in developing my technical, analytical, and problem-solving skills.\n\n | Email"
   },
   {
     "objectID": "posts/Data-Visualization/data-visualization.html",
     "href": "posts/Data-Visualization/data-visualization.html",
     "title": "Data Visualization Team Project",
     "section": "",
-    "text": "Evan Jackson\nRobbie Norman\nJoshua Araujo\nBrian Ostrosky"
+    "text": "Evan Jackson\nRobbie Norman\nJoshua Araujo\nBrian Ostrosky\nDaniel"
   },
   {
     "objectID": "posts/Data-Visualization/data-visualization.html#team-members",
     "href": "posts/Data-Visualization/data-visualization.html#team-members",
     "title": "Data Visualization Team Project",
     "section": "",
-    "text": "Evan Jackson\nRobbie Norman\nJoshua Araujo\nBrian Ostrosky"
+    "text": "Evan Jackson\nRobbie Norman\nJoshua Araujo\nBrian Ostrosky\nDaniel"
+  },
+  {
+    "objectID": "posts/Data-Visualization/data-visualization.html#distribution-of-u.s.-natural-gas-storage",
+    "href": "posts/Data-Visualization/data-visualization.html#distribution-of-u.s.-natural-gas-storage",
+    "title": "Data Visualization Team Project",
+    "section": "Distribution of U.S. Natural Gas Storage",
+    "text": "Distribution of U.S. Natural Gas Storage\nResearch Question: How are weekly U.S. natural gas storage levels distributed from 2010–2026?\n\nWhy We Chose This Question\nWe wanted to examine the distribution of U.S. natural gas storage levels over time. By looking at the weekly data, we can identify which storage levels occurred most frequently throughout the 2010–2026 period.\n\n\nHow We Created the Graph\nWe used Microsoft Excel to organize the weekly natural gas storage data and create a histogram. The histogram groups storage levels into ranges, allowing us to see how frequently different storage levels occurred.\n\n\nWhat the Graph Shows\nThe histogram shows the frequency of different U.S. natural gas storage levels from 2010–2026. It helps identify which storage ranges occurred most often and how the weekly storage levels were distributed throughout the period.\n\n\nHistogram\n[Slide1.png]"
+  },
+  {
+    "objectID": "posts/Data-Visualization/data-visualization.html#natural-gas-storage-levels-are-slightly-left-skewed-with-most-observations-concentrated-around-3000-bcf.",
+    "href": "posts/Data-Visualization/data-visualization.html#natural-gas-storage-levels-are-slightly-left-skewed-with-most-observations-concentrated-around-3000-bcf.",
+    "title": "Data Visualization Team Project",
+    "section": "Natural gas storage levels are slightly left-skewed, with most observations concentrated around 3,000 Bcf.",
+    "text": "Natural gas storage levels are slightly left-skewed, with most observations concentrated around 3,000 Bcf.\n![](Slide1.png)\nResearch Question: How are weekly U.S. natural gas storage levels distributed from 2010–2026?\n\nWhy We Chose This Question\nWe wanted to examine the distribution of U.S. natural gas storage levels over time. By looking at the weekly data, we can identify that it is left skewed.\n\n\nHow We Created the Graph\nWe used Microsoft Excel to organize the weekly natural gas storage data and create a histogram. The histogram groups storage levels into ranges, allowing us to see how frequently different storage levels occurred.\n\n\nWhat the Graph Shows\nThe histogram shows the frequency of different U.S. natural gas storage levels from 2010–2026. It helps identify which storage ranges occurred most often and how the weekly storage levels were distributed throughout the period."
+  },
+  {
+    "objectID": "posts/Data-Visualization/data-visualization.html#natural-gas-storage-levels-are-slightly-left-skewed",
+    "href": "posts/Data-Visualization/data-visualization.html#natural-gas-storage-levels-are-slightly-left-skewed",
+    "title": "Data Visualization Team Project",
+    "section": "Natural Gas Storage Levels Are Slightly Left-Skewed",
+    "text": "Natural Gas Storage Levels Are Slightly Left-Skewed\n\nResearch Question: How are weekly U.S. natural gas storage levels distributed from 2010–2026?\n\nWhy We Chose This Question\nWe wanted to examine the distribution of U.S. natural gas storage levels over time. Looking at weekly data allows us to identify common storage levels and understand how the data is distributed.\n\n\nHow We Created the Graph\nWe used Microsoft Excel to organize the weekly natural gas storage data and create a histogram. The histogram groups storage levels into ranges, allowing us to see how frequently different storage levels occurred.\n\n\nWhat the Graph Shows\nThe histogram shows that natural gas storage levels are slightly left-skewed, with most observations concentrated around 3,000 Bcf. This means that storage levels near 3,000 Bcf occurred more frequently than some of the lower storage levels."
+  },
+  {
+    "objectID": "posts/Data-Visualization/data-visualization.html#the-midwest-had-higher-average-natural-gas-storage-than-the-east-from-20102026",
+    "href": "posts/Data-Visualization/data-visualization.html#the-midwest-had-higher-average-natural-gas-storage-than-the-east-from-20102026",
+    "title": "Data Visualization Team Project",
+    "section": "The Midwest Had Higher Average Natural Gas Storage Than the East from 2010–2026",
+    "text": "The Midwest Had Higher Average Natural Gas Storage Than the East from 2010–2026\n\nResearch Question: How does average natural gas storage compare between the East and Midwest regions?\n\nWhy We Chose This Question\n\n\nHow We Created the Graph\n\n\nWhat the Graph Shows"
+  },
+  {
+    "objectID": "posts/Data-Visualization/data-visualization.html#pacific-natural-gas-storage-fluctuated-widely-from-20102026-and-recovered-after-reaching-its-lowest-level-in-2023",
+    "href": "posts/Data-Visualization/data-visualization.html#pacific-natural-gas-storage-fluctuated-widely-from-20102026-and-recovered-after-reaching-its-lowest-level-in-2023",
+    "title": "Data Visualization Team Project",
+    "section": "Pacific Natural Gas Storage Fluctuated Widely from 2010–2026 and Recovered After Reaching Its Lowest Level in 2023",
+    "text": "Pacific Natural Gas Storage Fluctuated Widely from 2010–2026 and Recovered After Reaching Its Lowest Level in 2023\n\nResearch Question: How have natural gas storage levels in the Pacific region changed from 2010–2026?\n\nWhy We Chose This Question\n\n\nHow We Created the Graph\n\n\nWhat the Graph Shows"
+  },
+  {
+    "objectID": "posts/Data-Visualization/data-visualization.html#mountain-and-south-central-natural-gas-storage-levels-show-a-strong-positive-relationship",
+    "href": "posts/Data-Visualization/data-visualization.html#mountain-and-south-central-natural-gas-storage-levels-show-a-strong-positive-relationship",
+    "title": "Data Visualization Team Project",
+    "section": "Mountain and South Central Natural Gas Storage Levels Show a Strong Positive Relationship",
+    "text": "Mountain and South Central Natural Gas Storage Levels Show a Strong Positive Relationship\n\nResearch Question: Is there a relationship between natural gas storage levels in the Mountain and South Central regions?\n\nWhy We Chose This Question\n\n\nHow We Created the Graph\n\n\nWhat the Graph Shows"
   }
 ]

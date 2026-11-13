@@ -6,5 +6,68 @@ title: "Data Visualization Team Project"
 
 - [Evan Jackson](https://EvanJ07.github.io/)
 - [Robbie Norman](https://robbie-norman.github.io/)
-- [Joshua Araujo](JOSHUA_PORTFOLIO_LINK)
-- [Brian Ostrosky](BRIAN_PORTFOLIO_LINK)
+- Joshua Araujo
+- Brian Ostrosky
+- Daniel
+
+------------------------------------------------------------------------
+
+## Natural Gas Storage Levels Are Slightly Left-Skewed
+
+![](Slide1.png)
+
+**Research Question:** How are weekly U.S. natural gas storage levels distributed from 2010–2026?
+
+### Why We Chose This Question
+
+We wanted to examine the distribution of U.S. natural gas storage levels over time. Looking at weekly data allows us to identify common storage levels and understand how the data is distributed.
+
+### How We Created the Graph
+
+We used Microsoft Excel to organize the weekly natural gas storage data and create a histogram. The histogram groups storage levels into ranges, allowing us to see how frequently different storage levels occurred.
+
+### What the Graph Shows
+
+The histogram shows that natural gas storage levels are slightly left-skewed, with most observations concentrated around 3,000 Bcf. This means that storage levels near 3,000 Bcf occurred more frequently than some of the lower storage levels.
+
+------------------------------------------------------------------------
+
+## The Midwest Had Higher Average Natural Gas Storage Than the East from 2010–2026
+
+![](Slide2.png)
+
+**Research Question:** How does average natural gas storage compare between the East and Midwest regions?
+
+### Why We Chose This Question
+
+### How We Created the Graph
+
+### What the Graph Shows
+
+------------------------------------------------------------------------
+
+## Pacific Natural Gas Storage Fluctuated Widely from 2010–2026 and Recovered After Reaching Its Lowest Level in 2023
+
+![](Slide3.png)
+
+**Research Question:** How have natural gas storage levels in the Pacific region changed from 2010–2026?
+
+### Why We Chose This Question
+
+### How We Created the Graph
+
+### What the Graph Shows
+
+------------------------------------------------------------------------
+
+## Mountain and South Central Natural Gas Storage Levels Show a Strong Positive Relationship
+
+![](Slide4.png)
+
+**Research Question:** Is there a relationship between natural gas storage levels in the Mountain and South Central regions?
+
+### Why We Chose This Question
+
+### How We Created the Graph
+
+### What the Graph Shows
