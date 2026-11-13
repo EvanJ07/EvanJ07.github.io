@@ -1,0 +1,8 @@
+[1,"==> quarto preview posts/Data-Visualization/data-visualization.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"\r[1/2] posts\\Data-Visualization\\data-visualization.qmd\n"]
+[1,"\r[2/2] projects.qmd\n"]
+[1,"\n"]
+[1,"Output created: ..\\..\\docs\\posts\\Data-Visualization\\data-visualization.html\n\n"]
+[1,"Preparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:7206/posts/Data-Visualization/data-visualization.html\nListening on http://127.0.0.1:7206/\n"]
+[1,"GET: /posts/Data-Visualization/data-visualization.html\n"]

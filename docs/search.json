@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nNov 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nNov 12, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nNov 9, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nNov 12, 2026\n\n\n\n\n\n\n\n\n\n\n\nData Visualization Team Project\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -40,5 +40,19 @@
     "title": "Evan Jackson",
     "section": "",
     "text": "I am an Industrial Engineering student interested in developing my technical, analytical, and problem-solving skills.\n\n\nLinkedIn | Email"
+  },
+  {
+    "objectID": "posts/Data-Visualization/data-visualization.html",
+    "href": "posts/Data-Visualization/data-visualization.html",
+    "title": "Data Visualization Team Project",
+    "section": "",
+    "text": "Evan Jackson\nRobbie Norman\nJoshua Araujo\nBrian Ostrosky"
+  },
+  {
+    "objectID": "posts/Data-Visualization/data-visualization.html#team-members",
+    "href": "posts/Data-Visualization/data-visualization.html#team-members",
+    "title": "Data Visualization Team Project",
+    "section": "",
+    "text": "Evan Jackson\nRobbie Norman\nJoshua Araujo\nBrian Ostrosky"
   }
 ]
