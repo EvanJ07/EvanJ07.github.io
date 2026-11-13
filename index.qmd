@@ -1,21 +1,25 @@
 ---
 
 
+
 ---
 title: "Evan Jackson"
-about:
-  template: jolla
-  image: ePortpic.jpg
-  image-shape: round
-  image-width: 12em
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/evan-jackson-85b115440/
-    - icon: envelope
-      text: Email
-      href: mailto:ekjackson3607@gmail.com
 ---
 
-I am an Industrial Engineering student interested in developing my technical, analytical, and problem-solving skills.
+<div style="text-align: center;">
+
+<img src="ePortpic.jpg"
+     alt="Evan Jackson"
+     style="width: 12em; height: 12em; object-fit: cover; border-radius: 50%;">
+
+<p>I am an Industrial Engineering student interested in developing my technical, analytical, and problem-solving skills.</p>
+
+<p>
+<a href="https://www.linkedin.com/in/evan-jackson-85b115440/">LinkedIn</a>
+|
+<a href="mailto:ekjackson3607@gmail.com">Email</a>
+</p>
+
+</div>
+
 ---
